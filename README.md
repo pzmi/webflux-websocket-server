@@ -1,3 +1,3 @@
 # webflux-websocket-server
 
-Example of creating websocket server using Spring 5 WebFlux.
+Example of websocket server using Spring 5 WebFlux.
